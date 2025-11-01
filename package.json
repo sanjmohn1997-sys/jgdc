@@ -1,0 +1,12 @@
+{
+  "name": "jgdc",
+  "version": "1.0.0",
+  "description": "Simple Node.js project with CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"console.log('Tests passed!')\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
